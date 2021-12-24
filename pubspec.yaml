@@ -1,0 +1,51 @@
+name: sampark
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0<3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  # splash_screen_view: ^3.0.0
+  # emoji Picker
+  emoji_picker: ^0.1.0
+  # shared prefrences
+  shared_preferences: ^0.5.4+1
+  # for using svg
+  flutter_svg: ^0.22.0
+  # animated text
+  animated_text_kit: ^4.2.1
+  # flutter loading spinkit
+  flutter_spinkit: "^4.1.2"
+  # For Showing Toast
+  fluttertoast: ^8.0.7
+
+# Firebase
+  # firebase core
+  firebase_core: ^1.3.0
+  # Database
+  cloud_firestore: ^2.2.2
+  # User Auth
+  firebase_auth: ^1.4.1
+  
+
+  # Google sign in helper
+  google_sign_in: ^5.0.4
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    # - assets/images/backgroundWallpaper
+    # - assets/images/social
+    - assets/images/
+    - assets/icons/

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096091377537",
+    "project_id": "sampark-chat",
+    "storage_bucket": "sampark-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096091377537:android:1db088708b2656fa40d280",
+        "android_client_info": {
+          "package_name": "com.swastik.sampark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096091377537-hac9t8v3r30be7744i79n00sa617shuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swastik.sampark",
+            "certificate_hash": "af01f1a8d0392c2e4d690c6f6b19326487c57989"
+          }
+        },
+        {
+          "client_id": "1096091377537-uos1ifo43ecqfk0amjue1rsh2mg20uf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_dsq8043IGlZXRs2DS9jlLkzWhTFaGFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096091377537-uos1ifo43ecqfk0amjue1rsh2mg20uf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
